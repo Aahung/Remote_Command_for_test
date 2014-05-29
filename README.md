@@ -1,1 +1,1 @@
-pkill X
+reboot
